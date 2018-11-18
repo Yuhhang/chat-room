@@ -1,0 +1,18 @@
+#inputUsername {
+    width: 300px;
+}
+
+#inputPassword {
+    width: 300px;
+}
+
+#form-login {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#login_fail_bar {
+    display: none;
+}
